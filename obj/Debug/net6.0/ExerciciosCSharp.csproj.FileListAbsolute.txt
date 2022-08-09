@@ -1,0 +1,15 @@
+C:\Users\JuliaPC\RiderProjects\ExerciciosCSharp\bin\Debug\net6.0\ExerciciosCSharp.exe
+C:\Users\JuliaPC\RiderProjects\ExerciciosCSharp\bin\Debug\net6.0\ExerciciosCSharp.deps.json
+C:\Users\JuliaPC\RiderProjects\ExerciciosCSharp\bin\Debug\net6.0\ExerciciosCSharp.runtimeconfig.json
+C:\Users\JuliaPC\RiderProjects\ExerciciosCSharp\bin\Debug\net6.0\ExerciciosCSharp.dll
+C:\Users\JuliaPC\RiderProjects\ExerciciosCSharp\bin\Debug\net6.0\ExerciciosCSharp.pdb
+C:\Users\JuliaPC\RiderProjects\ExerciciosCSharp\obj\Debug\net6.0\ExerciciosCSharp.csproj.AssemblyReference.cache
+C:\Users\JuliaPC\RiderProjects\ExerciciosCSharp\obj\Debug\net6.0\ExerciciosCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JuliaPC\RiderProjects\ExerciciosCSharp\obj\Debug\net6.0\ExerciciosCSharp.AssemblyInfoInputs.cache
+C:\Users\JuliaPC\RiderProjects\ExerciciosCSharp\obj\Debug\net6.0\ExerciciosCSharp.AssemblyInfo.cs
+C:\Users\JuliaPC\RiderProjects\ExerciciosCSharp\obj\Debug\net6.0\ExerciciosCSharp.csproj.CoreCompileInputs.cache
+C:\Users\JuliaPC\RiderProjects\ExerciciosCSharp\obj\Debug\net6.0\ExerciciosCSharp.dll
+C:\Users\JuliaPC\RiderProjects\ExerciciosCSharp\obj\Debug\net6.0\refint\ExerciciosCSharp.dll
+C:\Users\JuliaPC\RiderProjects\ExerciciosCSharp\obj\Debug\net6.0\ExerciciosCSharp.pdb
+C:\Users\JuliaPC\RiderProjects\ExerciciosCSharp\obj\Debug\net6.0\ExerciciosCSharp.genruntimeconfig.cache
+C:\Users\JuliaPC\RiderProjects\ExerciciosCSharp\obj\Debug\net6.0\ref\ExerciciosCSharp.dll
